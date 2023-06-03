@@ -6,14 +6,14 @@ ID,STATUS,AANBIEDER,AANSLUITINGEN,DATUMPLAATSING,ADRES,geo_shape,geo_point_2d,ne
 308008.0,Bestaand,Allego,2.0,2022-11-01T02:00:00+01:00,Zevenaarlaan,"{""coordinates"": [5.445448917289827, 51.44572241347542], ""type"": ""Point""}","51.44572241347542, 5.445448917289827",Drents Dorp,"33,7"
 308009.0,Bestaand,Park n charge,2.0,2022-09-27T04:00:00+02:00,Tarwelaan,"{""coordinates"": [5.49162798339112, 51.47692477984042], ""type"": ""Point""}","51.47692477984042, 5.49162798339112",Vaartbroek,"36,1"
 307901.0,Bestaand,EVnetNL,2.0,2022-11-01T02:00:00+01:00,Botenlaan,"{""coordinates"": [5.450148896824448, 51.43912955246835], ""type"": ""Point""}","51.43912955246835, 5.450148896824448",Het Ven,"37,7"
-307908.0,Bestaand,EVnetNL,2.0,,Beatrix de Rijkweg,"{""coordinates"": [5.39689431818745, 51.45592300994238], ""type"": ""Point""}","51.45592300994238, 5.39689431818745",Flight Forum,.
+307908.0,Bestaand,EVnetNL,2.0,,Beatrix de Rijkweg,"{""coordinates"": [5.39689431818745, 51.45592300994238], ""type"": ""Point""}","51.45592300994238, 5.39689431818745",Flight Forum,0
 307913.0,Bestaand,EVnetNL,2.0,2022-09-14T04:00:00+02:00,Graslinnen,"{""coordinates"": [5.417971541672696, 51.43526402466088], ""type"": ""Point""}","51.43526402466088, 5.417971541672696",Grasrijk,"59,2"
 307922.0,Bestaand,EVnetNL,2.0,2022-11-15T02:00:00+01:00,Frans Halsstraat,"{""coordinates"": [5.5003779021684345, 51.441398809613666], ""type"": ""Point""}","51.441398809613666, 5.5003779021684345",Lakerlopen,"37,3"
 307927.0,Bestaand,EVnetNL,2.0,2022-11-30T02:00:00+01:00,Wilhelminaplein,"{""coordinates"": [5.47069688486717, 51.43767431680545], ""type"": ""Point""}","51.43767431680545, 5.47069688486717",Bergen,"45,8"
 307930.0,Bestaand,EVnetNL,2.0,2022-11-23T02:00:00+01:00,St Odastraat,"{""coordinates"": [5.494384522059126, 51.43128427500629], ""type"": ""Point""}","51.43128427500629, 5.494384522059126",Tuindorp,"45,1"
 307940.0,Bestaand,Allego,2.0,2022-09-14T04:00:00+02:00,Zanddrager,"{""coordinates"": [5.410371730833039, 51.44654934161225], ""type"": ""Point""}","51.44654934161225, 5.410371730833039",Zandrijk,"56,2"
-307943.0,,,2.0,,,"{""coordinates"": [5.45112757942642, 51.43469496020564], ""type"": ""Point""}","51.43469496020564, 5.45112757942642",Hurk,.
-307944.0,,,2.0,,Limburglaan,"{""coordinates"": [5.451115360541787, 51.434719065556976], ""type"": ""Point""}","51.434719065556976, 5.451115360541787",Hurk,.
+307943.0,,,2.0,,,"{""coordinates"": [5.45112757942642, 51.43469496020564], ""type"": ""Point""}","51.43469496020564, 5.45112757942642",Hurk,0
+307944.0,,,2.0,,Limburglaan,"{""coordinates"": [5.451115360541787, 51.434719065556976], ""type"": ""Point""}","51.434719065556976, 5.451115360541787",Hurk,0
 307946.0,Bestaand,EVnetNL,2.0,2022-09-12T04:00:00+02:00,Biaritzplein,"{""coordinates"": [5.44985226189762, 51.48343257533035], ""type"": ""Point""}","51.48343257533035, 5.44985226189762",Achtse Barrier-Gunterslaer,"49,1"
 307948.0,Bestaand,EVnetNL,2.0,,"Graslelie, th hu38","{""coordinates"": [5.418435924613966, 51.44010114657756], ""type"": ""Point""}","51.44010114657756, 5.418435924613966",Grasrijk,"59,2"
 307954.0,Bestaand,,,,Pastoor Petersstraat,"{""coordinates"": [5.473119212016795, 51.44503573079011], ""type"": ""Point""}","51.44503573079011, 5.473119212016795",Hemelrijken,"29,9"
@@ -166,24 +166,24 @@ ID,STATUS,AANBIEDER,AANSLUITINGEN,DATUMPLAATSING,ADRES,geo_shape,geo_point_2d,ne
 307998.0,Bestaand,Allego,2.0,2022-10-11T04:00:00+02:00,Melanie van Javalaan,"{""coordinates"": [5.482455683312373, 51.42210034657467], ""type"": ""Point""}","51.42210034657467, 5.482455683312373",Genneperzijde,"53,6"
 308000.0,Bestaand,Allego,2.0,2022-11-29T02:00:00+01:00,Brederolaan,"{""coordinates"": [5.469138068829702, 51.42915736849371], ""type"": ""Point""}","51.42915736849371, 5.469138068829702",Schrijversbuurt,"52,4"
 308005.0,Bestaand,Allego,2.0,2022-09-14T04:00:00+02:00,Graslinnen,"{""coordinates"": [5.418009340025198, 51.43529215815344], ""type"": ""Point""}","51.43529215815344, 5.418009340025198",Grasrijk,"59,2"
-307906.0,Bestaand,EVnetNL,1.0,2022-01-01T02:00:00+01:00,Hurksestraat,"{""coordinates"": [5.446790820684049, 51.42973880344513], ""type"": ""Point""}","51.42973880344513, 5.446790820684049",Hurk,.
+307906.0,Bestaand,EVnetNL,1.0,2022-01-01T02:00:00+01:00,Hurksestraat,"{""coordinates"": [5.446790820684049, 51.42973880344513], ""type"": ""Point""}","51.42973880344513, 5.446790820684049",Hurk,0
 307911.0,Bestaand,EVnetNL,2.0,2022-11-29T02:00:00+01:00,Frans Leharplein,"{""coordinates"": [5.462401787387076, 51.42338422545572], ""type"": ""Point""}","51.42338422545572, 5.462401787387076",Rapelenburg,"41,9"
 307916.0,Bestaand,EVnetNL,2.0,2022-11-24T02:00:00+01:00,Puthof,"{""coordinates"": [5.443524006711996, 51.415753480402266], ""type"": ""Point""}","51.415753480402266, 5.443524006711996",Hanevoet,"42,0"
-307918.0,Bestaand,EVnetNL,2.0,,Antoon Coolenlaan (parkeerterrein),"{""coordinates"": [5.475836045783301, 51.41703298115314], ""type"": ""Point""}","51.41703298115314, 5.475836045783301",Gennep,.
+307918.0,Bestaand,EVnetNL,2.0,,Antoon Coolenlaan (parkeerterrein),"{""coordinates"": [5.475836045783301, 51.41703298115314], ""type"": ""Point""}","51.41703298115314, 5.475836045783301",Gennep,0
 307925.0,,,2.0,,Alberdingk Thijmlaan stadspaviljoen,"{""coordinates"": [5.482854397689235, 51.42819877816498], ""type"": ""Point""}","51.42819877816498, 5.482854397689235",Looiakkers,"42,7"
 307926.0,In ontwikkeling,,,,,"{""coordinates"": [5.475054209809705, 51.43439587012782], ""type"": ""Point""}","51.43439587012782, 5.475054209809705",Bergen,"45,8"
 307928.0,Bestaand,EVnetNL,2.0,2022-10-11T04:00:00+02:00,Jacques Perkstraat,"{""coordinates"": [5.4835864543116895, 51.421399772439514], ""type"": ""Point""}","51.421399772439514, 5.4835864543116895",Genneperzijde,"53,6"
 307932.0,Bestaand,EVnetNL,2.0,2022-09-13T04:00:00+02:00,Europalaan,"{""coordinates"": [5.481456981560022, 51.45741405806868], ""type"": ""Point""}","51.45741405806868, 5.481456981560022",Generalenbuurt,"38,2"
 307937.0,Bestaand,EVnetNL,2.0,2022-10-11T04:00:00+02:00,Winkelcentrum Woensel,"{""coordinates"": [5.477697899375907, 51.4691414667974], ""type"": ""Point""}","51.4691414667974, 5.477697899375907",Winkelcentrum,"38,7"
 307938.0,Bestaand,EVnetNL,2.0,2022-10-24T04:00:00+02:00,Amazonenlaan,"{""coordinates"": [5.499919410828509, 51.46333603846164], ""type"": ""Point""}","51.46333603846164, 5.499919410828509",Oude Gracht-Oost,"63,9"
-307942.0,,,2.0,,Limburglaan,"{""coordinates"": [5.451140419112179, 51.43467258932581], ""type"": ""Point""}","51.43467258932581, 5.451140419112179",Hurk,.
+307942.0,,,2.0,,Limburglaan,"{""coordinates"": [5.451140419112179, 51.43467258932581], ""type"": ""Point""}","51.43467258932581, 5.451140419112179",Hurk,0
 307950.0,Bestaand,EVnetNL,2.0,2022-10-24T04:00:00+02:00,Muzenlaan,"{""coordinates"": [5.488496288204013, 51.461995968541466], ""type"": ""Point""}","51.461995968541466, 5.488496288204013",Oude Gracht-West,"36,2"
 307953.0,Bestaand,EVnetNL,2.0,2022-10-10T04:00:00+02:00,Gerritsonplein,"{""coordinates"": [5.4631112239941, 51.470146665500835], ""type"": ""Point""}","51.470146665500835, 5.4631112239941",Prinsejagt,"38,7"
 307958.0,Bestaand,EVnetNL,2.0,2022-10-26T04:00:00+02:00,Willem de Rijkelaan,"{""coordinates"": [5.462577209850242, 51.43564905741049], ""type"": ""Point""}","51.43564905741049, 5.462577209850242",Engelsbergen,"55,2"
 307966.0,Bestaand,EVnetNL,2.0,2022-11-15T02:00:00+01:00,Tongelresestraat,"{""coordinates"": [5.5069274672025985, 51.4415583173782], ""type"": ""Point""}","51.4415583173782, 5.5069274672025985",Doornakkers-West,"37,2"
 307974.0,Bestaand,Allego,2.0,2022-10-12T04:00:00+02:00,Wilgeboorderweg,"{""coordinates"": [5.519159337084277, 51.45096660517342], ""type"": ""Point""}","51.45096660517342, 5.519159337084277",'t Hofke,"39,3"
 308277.0,Bestaand,Allego,2.0,2022-09-14T04:00:00+02:00,Zanderiger 9,"{""coordinates"": [5.411556497815814, 51.4457066975982], ""type"": ""Point""}","51.4457066975982, 5.411556497815814",Zandrijk,"56,2"
-307939.0,Bestaand,EVnetNL,2.0,2022-09-21T04:00:00+02:00,Hurksestraat,"{""coordinates"": [5.437966833203779, 51.43346180632584], ""type"": ""Point""}","51.43346180632584, 5.437966833203779",Hurk,.
+307939.0,Bestaand,EVnetNL,2.0,2022-09-21T04:00:00+02:00,Hurksestraat,"{""coordinates"": [5.437966833203779, 51.43346180632584], ""type"": ""Point""}","51.43346180632584, 5.437966833203779",Hurk,0
 308175.0,Bestaand,Park n charge,2.0,2022-09-21T04:00:00+02:00,Duistervoorde,"{""coordinates"": [5.439287507959001, 51.416786944421204], ""type"": ""Point""}","51.416786944421204, 5.439287507959001",Hanevoet,"42,0"
 307983.0,Bestaand,EVnetNL,2.0,2023-02-01T02:00:00+01:00,Kiplinglaan,"{""coordinates"": [5.478105944305374, 51.486460038813796], ""type"": ""Point""}","51.486460038813796, 5.478105944305374",Blixembosch-Oost,"65,6"
 308053.0,Bestaand,Allego,2.0,2022-09-27T04:00:00+02:00,Tomatenstraat,"{""coordinates"": [5.4996936917475825, 51.478127674411176], ""type"": ""Point""}","51.478127674411176, 5.4996936917475825",Vaartbroek,"36,1"
@@ -291,7 +291,7 @@ ID,STATUS,AANBIEDER,AANSLUITINGEN,DATUMPLAATSING,ADRES,geo_shape,geo_point_2d,ne
 308442.0,Bestaand,Allego,2.0,2023-04-04T04:00:00+02:00,Esperenkamp,"{""coordinates"": [5.491769489028532, 51.4844061882243], ""type"": ""Point""}","51.4844061882243, 5.491769489028532",Heesterakker,"55,3"
 308462.0,Bestaand,Park n charge,2.0,2023-05-04T04:00:00+02:00,Lavendellaan 87,"{""coordinates"": [5.501851938988453, 51.4197860761432], ""type"": ""Point""}","51.4197860761432, 5.501851938988453",Kruidenbuurt,"41,2"
 308396.0,Bestaand,OPCHARGE,2.0,2023-02-14T02:00:00+01:00,Frederiklaan 73,"{""coordinates"": [5.464497028930101, 51.44236241673722], ""type"": ""Point""}","51.44236241673722, 5.464497028930101",Philipsdorp,"42,1"
-308436.0,,,2.0,,,"{""coordinates"": [5.453410697030127, 51.49221590773957], ""type"": ""Point""}","51.49221590773957, 5.453410697030127",Castiliëlaan,.
+308436.0,,,2.0,,,"{""coordinates"": [5.453410697030127, 51.49221590773957], ""type"": ""Point""}","51.49221590773957, 5.453410697030127",Castiliëlaan,0
 308394.0,Bestaand,OPCHARGE,2.0,2023-03-02T02:00:00+01:00,Augustijnendreef 34,"{""coordinates"": [5.485721990772883, 51.438712168388896], ""type"": ""Point""}","51.438712168388896, 5.485721990772883",Binnenstad,"40,3"
 308471.0,Bestaand,Vattenfall,2.0,2023-05-09T04:00:00+02:00,Finisterelaan,"{""coordinates"": [5.441418754036202, 51.49042244730908], ""type"": ""Point""}","51.49042244730908, 5.441418754036202",Achtse Barrier-Hoeven,"46,3"
 307995.0,Bestaand,EVnetNL,2.0,2022-12-19T02:00:00+01:00,Tramstraat,"{""coordinates"": [5.483288688531714, 51.4404594068248], ""type"": ""Point""}","51.4404594068248, 5.483288688531714",Binnenstad,"40,3"
@@ -301,13 +301,13 @@ ID,STATUS,AANBIEDER,AANSLUITINGEN,DATUMPLAATSING,ADRES,geo_shape,geo_point_2d,ne
 308010.0,Bestaand,Allego,2.0,2022-09-14T04:00:00+02:00,Bosfazant,"{""coordinates"": [5.4166755762842085, 51.44450967071866], ""type"": ""Point""}","51.44450967071866, 5.4166755762842085",Bosrijk,"73,7"
 308014.0,Bestaand,EVnetNL,2.0,2022-09-20T04:00:00+02:00,Pietersbergweg,"{""coordinates"": [5.460275196859116, 51.48109534389262], ""type"": ""Point""}","51.48109534389262, 5.460275196859116",Woenselse Heide,"41,9"
 307900.0,Bestaand,EVnetNL,2.0,2022-09-28T04:00:00+02:00,Klundertstraat,"{""coordinates"": [5.435901278963346, 51.43917234177628], ""type"": ""Point""}","51.43917234177628, 5.435901278963346",Het Ven,"37,7"
-307902.0,Bestaand,EVnetNL,2.0,2022-09-27T04:00:00+02:00,Anconalaan,"{""coordinates"": [5.500067185286218, 51.486135697250575], ""type"": ""Point""}","51.486135697250575, 5.500067185286218",Bokt,.
+307902.0,Bestaand,EVnetNL,2.0,2022-09-27T04:00:00+02:00,Anconalaan,"{""coordinates"": [5.500067185286218, 51.486135697250575], ""type"": ""Point""}","51.486135697250575, 5.500067185286218",Bokt,0
 307903.0,Bestaand,,1.0,2022-10-26T04:00:00+02:00,Julianastraat,"{""coordinates"": [5.468774348142098, 51.43698482880509], ""type"": ""Point""}","51.43698482880509, 5.468774348142098","Eliasterrein, Vonderkwartier","47,9"
 307905.0,Bestaand,,1.0,2022-10-06T04:00:00+02:00,Torenallee,"{""coordinates"": [5.458900744270603, 51.44542278537904], ""type"": ""Point""}","51.44542278537904, 5.458900744270603",Strijp S,"38,6"
 307907.0,Bestaand,EVnetNL,2.0,2022-09-28T04:00:00+02:00,Welschapsedijk,"{""coordinates"": [5.430304179239265, 51.440448070269355], ""type"": ""Point""}","51.440448070269355, 5.430304179239265",Lievendaal,"37,7"
 307912.0,Aangevraagde locatie,EVnetNL,2.0,2022-09-12T04:00:00+02:00,Grasparkiet,"{""coordinates"": [5.411870183021714, 51.439155444394814], ""type"": ""Point""}","51.439155444394814, 5.411870183021714",Grasrijk,"59,2"
 307921.0,Bestaand,EVnetNL,2.0,2022-12-07T02:00:00+01:00,Picushof,"{""coordinates"": [5.492405510847326, 51.43732110395258], ""type"": ""Point""}","51.43732110395258, 5.492405510847326",Lakerlopen,"37,3"
-307923.0,Bestaand,EVnetNL,2.0,2022-10-05T04:00:00+02:00,Charles Roelslaan,"{""coordinates"": [5.475888279507835, 51.40872148846414], ""type"": ""Point""}","51.40872148846414, 5.475888279507835",Sportpark Aalsterweg,.
+307923.0,Bestaand,EVnetNL,2.0,2022-10-05T04:00:00+02:00,Charles Roelslaan,"{""coordinates"": [5.475888279507835, 51.40872148846414], ""type"": ""Point""}","51.40872148846414, 5.475888279507835",Sportpark Aalsterweg,0
 307924.0,Bestaand,,2.0,2022-09-15T04:00:00+02:00,St Petrus Canissiuslaan,"{""coordinates"": [5.509256656691357, 51.42780621504954], ""type"": ""Point""}","51.42780621504954, 5.509256656691357",Burghplan,"36,7"
 307933.0,Bestaand,EVnetNL,1.0,2022-10-24T04:00:00+02:00,Sumatralaan,"{""coordinates"": [5.496855688123595, 51.45322322122792], ""type"": ""Point""}","51.45322322122792, 5.496855688123595",Karpen,"150,2"
 307935.0,Bestaand,,2.0,2022-09-14T04:00:00+02:00,"Ardechelaan, parkeerplaats","{""coordinates"": [5.440904319461989, 51.48889726044871], ""type"": ""Point""}","51.48889726044871, 5.440904319461989",Achtse Barrier-Hoeven,"46,3"
@@ -328,7 +328,7 @@ ID,STATUS,AANBIEDER,AANSLUITINGEN,DATUMPLAATSING,ADRES,geo_shape,geo_point_2d,ne
 308004.0,Bestaand,Allego,2.0,2022-10-03T04:00:00+02:00,Pieter Lastmanstraat,"{""coordinates"": [5.517718388181807, 51.43741820731927], ""type"": ""Point""}","51.43741820731927, 5.517718388181807",Doornakkers-Oost,"32,0"
 308171.0,Bestaand,Allego,2.0,2022-10-03T04:00:00+02:00,Raatven,"{""coordinates"": [5.510703245257973, 51.41913729197314], ""type"": ""Point""}","51.41913729197314, 5.510703245257973",Gijzenrooi,"67,0"
 307931.0,Bestaand,EVnetNL,2.0,2022-10-05T04:00:00+02:00,Biesterweg,"{""coordinates"": [5.487300991413063, 51.4263592908426], ""type"": ""Point""}","51.4263592908426, 5.487300991413063",Bloemenplein,"36,0"
-308115.0,Bestaand,Allego,2.0,,Antoon Coolenlaan (parkeerterrein),"{""coordinates"": [5.475909232481736, 51.4170335815637], ""type"": ""Point""}","51.4170335815637, 5.475909232481736",Gennep,.
+308115.0,Bestaand,Allego,2.0,,Antoon Coolenlaan (parkeerterrein),"{""coordinates"": [5.475909232481736, 51.4170335815637], ""type"": ""Point""}","51.4170335815637, 5.475909232481736",Gennep,0
 308186.0,Bestaand,Allego,2.0,2022-10-06T04:00:00+02:00,Hadewychlaan,"{""coordinates"": [5.50124922858924, 51.42771755263618], ""type"": ""Point""}","51.42771755263618, 5.50124922858924",Burghplan,"36,7"
 308047.0,Bestaand,OPCHARGE,2.0,2022-10-18T04:00:00+02:00,Vlaanderenlaan,"{""coordinates"": [5.477402890066751, 51.47720712272881], ""type"": ""Point""}","51.47720712272881, 5.477402890066751",Tempel,"39,3"
 308326.0,Bestaand,OPCHARGE,2.0,2022-10-26T04:00:00+02:00,Sint Martinusstraat,"{""coordinates"": [5.46977641862355, 51.43464420846059], ""type"": ""Point""}","51.43464420846059, 5.46977641862355",Oude Spoorbaan,"37,8"

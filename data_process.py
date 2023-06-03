@@ -37,6 +37,9 @@ def main():
                 parking_places.loc[index_pp, 'neighbourhood'] = neighborhood_name
                 break
 
+    
+    # check if avg_income has no values "." and replace with 0
+    avg_income["Gemiddeld besteedbaar huishoudeninkomen (x1000 euro)|2020"] = avg_income["Gemiddeld besteedbaar huishoudeninkomen (x1000 euro)|2020"].replace(".", 0)
     # Create income mapping
     income_mapping = dict(zip(avg_income["Buurten"], avg_income["Gemiddeld besteedbaar huishoudeninkomen (x1000 euro)|2020"]))
 
